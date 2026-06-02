@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the main contribution of the uploaded document?",
+    "expected_keywords": ["contribution", "method", "result"]
+  },
+  {
+    "question": "Which dataset is used and what metrics are reported?",
+    "expected_keywords": ["dataset", "metric", "accuracy", "f1"]
+  }
+]

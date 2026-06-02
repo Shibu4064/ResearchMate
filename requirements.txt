@@ -1,0 +1,15 @@
+streamlit
+fastapi
+uvicorn[standard]
+python-multipart
+chromadb
+sentence-transformers
+PyMuPDF
+python-docx
+pydantic
+requests
+pandas
+numpy
+tqdm
+python-dotenv
+pymupdf>=1.27.0
