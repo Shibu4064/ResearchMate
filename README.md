@@ -258,3 +258,9 @@ CHUNK_OVERLAP=100
 - Authentication and user-specific document stores
 - Deployment on Hugging Face Spaces or Render
 
+<img width="1381" height="848" alt="Screenshot 2026-06-02 at 1 39 27 AM" src="https://github.com/user-attachments/assets/03c7893e-1b3f-4cab-9a31-4dfd06a98225" />
+<img width="1381" height="848" alt="Screenshot 2026-06-02 at 1 39 17 AM" src="https://github.com/user-attachments/assets/d8fc6d85-8d80-4420-be23-90923e8a20e5" />
+<img width="1381" height="848" alt="Screenshot 2026-06-02 at 1 38 36 AM" src="https://github.com/user-attachments/assets/f8275cec-4849-4348-a246-94abcb4ff77c" />
+<img width="1381" height="848" alt="Screenshot 2026-06-02 at 1 38 07 AM" src="https://github.com/user-attachments/assets/8b53125d-b0e4-48b3-82e8-0adbc363b867" />
+<img width="1381" height="848" alt="Screenshot 2026-06-02 at 1 37 27 AM" src="https://github.com/user-attachments/assets/a6630704-c71b-4279-bd0f-e7c7c38ae050" />
+
