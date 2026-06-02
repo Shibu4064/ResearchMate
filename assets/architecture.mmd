@@ -1,0 +1,11 @@
+flowchart TD
+    A[Upload PDF/DOCX/TXT/CSV] --> B[Document Loader]
+    B --> C[Text Cleaner]
+    C --> D[Chunker with Overlap]
+    D --> E[SentenceTransformer Embeddings]
+    E --> F[ChromaDB Vector Store]
+    G[User Question] --> H[Retriever]
+    F --> H
+    H --> I[Grounded Prompt Builder]
+    I --> J[Ollama Local LLM]
+    J --> K[Answer with Source References]

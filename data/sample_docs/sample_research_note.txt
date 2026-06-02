@@ -1,0 +1,5 @@
+ResearchMate-RAG Sample Note
+
+This sample document is included so you can test the system immediately. ResearchMate-RAG is a local Retrieval-Augmented Generation system for academic papers, CVs, project reports, and job descriptions. It parses documents, splits them into chunks, embeds them with a SentenceTransformer model, stores them in ChromaDB, retrieves relevant chunks, and sends the retrieved context to a local Ollama LLM for source-grounded answering.
+
+Main features include source-cited question answering, multi-document ingestion, CV-to-job matching, research paper summarization, project report analysis, and a simple Streamlit interface.
